@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Special+Elite&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  display: flex;
+}
+
+.navbar-text {
+  font-size: 40px;
+  padding: 0;
+  margin: 0;
+  margin-left: 10px;
+  font-family: 'Special Elite', cursive;
+}
+
+.logo {
+  margin-left: 10px;
+}
